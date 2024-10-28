@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Alexandre Mourão
 
+## 📂 Repository Overview
+This repository is a collection of the different projects I've worked on throughout my journey, both academically and in my spare time. The projects presented here cover a variety of areas, including software development, electrical engineering and machine learning.
+
 ## 📝 About Me
 🎓 I’m a recent graduate in Electrical and Computer Engineering with a passion for software development and machine learning. Throughout my academic journey, I’ve honed my skills in languages such as Python, Java, and C++.
 
